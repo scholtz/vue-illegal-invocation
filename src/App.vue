@@ -23,4 +23,6 @@ async function fetchParams(){
   <button @click="fetchParams">Click</button>
   <div>Data: {{ status.data }}</div>
   <div>E: {{ status.e }}</div>
+  <div>Source code: <a href="https://github.com/scholtz/vue-illegal-invocation">https://github.com/scholtz/vue-illegal-invocation</a></div>
+  <div>Demo: <a href="https://vue-illegal-invocation.vercel.app/">https://vue-illegal-invocation.vercel.app/</a></div>
 </template>
