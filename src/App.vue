@@ -25,4 +25,5 @@ async function fetchParams(){
   <div>E: {{ status.e }}</div>
   <div>Source code: <a href="https://github.com/scholtz/vue-illegal-invocation">https://github.com/scholtz/vue-illegal-invocation</a></div>
   <div>Demo: <a href="https://vue-illegal-invocation.vercel.app/">https://vue-illegal-invocation.vercel.app/</a></div>
+  <div>Solution to the problem: <code>npm i algosdk@2.4.0</code></div>
 </template>
