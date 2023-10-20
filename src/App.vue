@@ -13,6 +13,7 @@ async function fetchParams(){
     status.data = params
   }catch(e:any){
     status.e = e;
+    console.error(e)
   }
 }
 
